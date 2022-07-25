@@ -1,1 +1,1 @@
-# pensamentocomputacional-1D
+# PensamentoComputacional-1D
