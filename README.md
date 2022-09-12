@@ -13,3 +13,5 @@ e quais alimentos comer e evitar quando estiver com algum
 problema de saúde,dicas de alimentção.</em></p>
 
 ![image](https://user-images.githubusercontent.com/107426208/189726861-f35adc64-4d96-4ef7-9c73-42050c28ea50.png)
+_______________
+Imagem tirada de: minhavida.com.br 
